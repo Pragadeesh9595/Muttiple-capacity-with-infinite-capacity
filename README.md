@@ -52,4 +52,4 @@ print("--------------------------------------------------------------")
 <img width="538" height="267" alt="image" src="https://github.com/user-attachments/assets/d66ccc3d-a08b-4dd2-9bdd-da1c745aed41" />
 
 ## Result : 
-the above program id done and output is verfied successfully
+ the above program id done and output is verfied successfully
